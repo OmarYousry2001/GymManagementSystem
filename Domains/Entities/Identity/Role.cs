@@ -4,6 +4,6 @@ namespace Domains.Entities.Identity
 {
     public class Role : IdentityRole
     {
-
+             
     }
 }
