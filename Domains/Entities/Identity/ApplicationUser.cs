@@ -17,5 +17,8 @@ namespace Domains.Identity
         [EncryptColumn]
         public string? Code { get; set; }
 
+        // additional properties can be added here as needed, such as FirstName, LastName, etc.
+        public string FirstName { get; set; } = null!;
+        public string LastName { get; set; } = null!;
     }
 }

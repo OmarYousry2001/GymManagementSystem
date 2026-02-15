@@ -3,7 +3,7 @@ using BL.Contracts.Services.Custom;
 using BL.DTO.Entities;
 using BL.Services.Generic;
 using DAL.Contracts.Repositories.Generic;
-using Domains.Entities.Product;
+using Domains.Entities;
 
 namespace BL.Services
 {
